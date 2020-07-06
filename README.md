@@ -6,4 +6,4 @@ Steps followed <br>
 ```npm install nodemon```<br>
 To run the app : <br>
 ```nodemon server.js```<br>
-The app runs at localhost:3000
+The app runs at **localhost:3000**
